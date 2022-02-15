@@ -5,9 +5,9 @@
 - I'm currently working on an Arduino project, with a mobile app
 - I'm currently learning react and c++
 - I'm currently looking to collaborate with anyone who want to share his passions with me
-- 2022 Goals: Start contributing on OpenSource projects
+- 2022 Goal: Start contributing on OpenSource projects
 
- ## Language and tools
+ ## Languages and tools
  
 <img align="left" alt="Ansible" width="26px" src="https://github.com/github/explore/blob/main/topics/ansible/ansible.png?raw=true" />
 <img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true" />

@@ -9,7 +9,7 @@
 
  ## Language and tools
  
-![Ansible](https://github.com/github/explore/blob/main/topics/ansible/ansible.png?raw=true)]
+<img align="left" alt="Ansible" width="26px" src="https://github.com/github/explore/blob/main/topics/ansible/ansible.png?raw=true" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nero-F&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 

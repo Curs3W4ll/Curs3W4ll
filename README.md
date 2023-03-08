@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>img { height: 50px }</style>
+<head>
+    <style>img { height: 50px }</style>
+</head>
 
 <h1 align="left">Hi there <img alt="Waving" width="40" height="40" src="./img/icons/wave.gif"> I'm Corentin - aka Curs3W4ll</h1>
 
@@ -13,7 +14,7 @@
 - 📚 I'm currently learning React
 - 🎯 2023 Goal: Start contributing on OpenSource projects
 
-For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://hervaud.fr).<br>
+For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).<br>
 
  ## Languages and tools
 

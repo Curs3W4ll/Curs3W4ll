@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <img style="border-radius: 15px" src="animatedName.svg" style="width: 100%">
+  <img src="animatedName.svg" style="width: 100%">
 </div>
 
 ## I'm a French Student and Developer

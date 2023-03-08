@@ -12,7 +12,9 @@
 - 📚 I'm currently learning React
 - 🎯 2023 Goal: Start contributing on OpenSource projects
 
-For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).<br>
+For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).
+
+<br />
 
  ## Languages and tools
 
@@ -139,6 +141,8 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
 
 <img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Curs3W4ll&theme=tokyonight" />
 <img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Curs3W4ll&theme=tokyonight&utcOffset=8" />
+
+<br />
 
 <img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Curs3W4ll&theme=tokyonight" />
 <img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Curs3W4ll&theme=tokyonight" />

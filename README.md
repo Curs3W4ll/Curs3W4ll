@@ -5,7 +5,7 @@
 ## I'm a French Student and Developer
 
 - 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020-2025)
-- 🎓 I will study to **Laval university** next year (2023, 2024)
+- 🎓 I will study to **Laval university** next year (2023-2024)
 - 👨‍🎓 Autonomous & Self-taught
 - ❤️‍🔥 Devops Evangelist
 - 🔌 I'm currently working on an Arduino project, with a mobile app
@@ -14,9 +14,7 @@
 
 For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).
 
-<br />
-
- ## Languages and tools
+## Languages and tools
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
@@ -122,7 +120,7 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
   </a>
 </p>
 
-### 📫 Reach me
+## 📫 Reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guillaumebogard" target="_blank" rel="noreferrer">

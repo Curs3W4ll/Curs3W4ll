@@ -1,17 +1,17 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <style>img { height: 50px }</style>
 
-<h1 align="left">Hi there <img alt="Waving" width="40" height="40" src="./img/icons/.svg"> I'm Corentin - aka Curs3W4ll</h1>
+<h1 align="left">Hi there <img alt="Waving" width="40" height="40" src="./img/icons/wave.gif"> I'm Corentin - aka Curs3W4ll</h1>
 
 ## I'm a French Student and Developer
 
 - 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020-2025)
 - 🎓 I will study to **Laval university** next year (2023, 2024)
 - 👨‍🎓 Autonomous & Self-taught
--  Devops Evangelist
--  I'm currently working on an Arduino project, with a mobile app
--  I'm currently learning React
-- 󰓾 2023 Goal: Start contributing on OpenSource projects
+- ❤️‍🔥 Devops Evangelist
+- 🔌 I'm currently working on an Arduino project, with a mobile app
+- 📚 I'm currently learning React
+- 🎯 2023 Goal: Start contributing on OpenSource projects
 
 For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://hervaud.fr).<br>
 
@@ -138,3 +138,54 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
 
 ---
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/Curs3W4ll">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=naleeee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naleeee">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naleeee&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naleeee">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naleeee&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naleeee&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naleeee&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naleeee">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naleeee&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naleeee">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naleeee&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>

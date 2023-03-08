@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <img src="animatedName.svg" style="width: 100%">
+  <img style="border-radius: 15px" src="animatedName.svg" style="width: 100%">
 </div>
 
 ## I'm a French Student and Developer
@@ -141,12 +141,6 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
 
 <img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Curs3W4ll&theme=tokyonight" />
 <img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Curs3W4ll&theme=tokyonight&utcOffset=8" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Curs3W4ll&theme=tokyonight" />
 <img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Curs3W4ll&theme=tokyonight" />

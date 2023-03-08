@@ -13,10 +13,6 @@
           100% { transform: rotate( 0.0deg) }
         }
 
-        img {
-          height: 50px;
-        }
-
         .container {
           background-color: black;
 

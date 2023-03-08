@@ -137,8 +137,8 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Curs3W4ll&theme=tokyonight" />
 
-<img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Curs3W4ll&theme=tokyonight" />
-<img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Curs3W4ll&theme=tokyonight&utcOffset=8" />
+<img width="370" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Curs3W4ll&theme=tokyonight" />
+<img width="370" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Curs3W4ll&theme=tokyonight&utcOffset=8" />
 
-<img width="400" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Curs3W4ll&theme=tokyonight" />
-<img width="400" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Curs3W4ll&theme=tokyonight" />
+<img width="370" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Curs3W4ll&theme=tokyonight" />
+<img width="370" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Curs3W4ll&theme=tokyonight" />

@@ -4,8 +4,6 @@
 
 ## I'm a French Student and Developer
 
-👋
-
 - 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020-2025)
 - 🎓 I will study to **Laval university** next year (2023, 2024)
 - 👨‍🎓 Autonomous & Self-taught

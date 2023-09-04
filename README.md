@@ -4,13 +4,13 @@
 
 ## I'm a French Student and Developer
 
-- 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020-2025)
-- 🎓 I will study to **Laval university** next year (2023-2024)
+- 💼 4th year IT student at **EPITECH, Bordeaux, France** (2020-2025)
+- 🎓 Studying to **Laval university** (2023-2024)
 - 👨‍🎓 Autonomous & Self-taught
 - ❤️‍🔥 Devops Evangelist
 - 🔌 I'm currently working on an Arduino project, with a mobile app
-- 📚 I'm currently learning React
-- 🎯 2023 Goal: Start contributing on OpenSource projects
+- 📚 Developing a medical software for bed management, [Medali](https://medali.fr/).
+- 🎯 2024 Goal: Start contributing on OpenSource projects
 
 For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).
 
@@ -35,20 +35,17 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Typescript" title="Typescript" src="./img/icons/typescript.svg" />
   </a>
-  <a href="https://www.arduino.org/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Arduino" title="Arduino" src="./img/icons/arduino.svg" />
-  </a>
 
   <br />
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="ReactJS" title="ReactJS" src="./img/icons/react.svg" />
-  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img height="50px" alt="VueJS" title="VueJS" src="./img/icons/vue.svg" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img height="50px" alt="ExpressJS" title="ExpressJS" src="./img/icons/express.svg" />
+  </a>
+  <a href="https://www.arduino.org/" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Arduino" title="Arduino" src="./img/icons/arduino.svg" />
   </a>
 
   <br />
@@ -56,20 +53,14 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Docker" title="Docker" src="./img/icons/docker.svg" />
   </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Kubernetes" title="Kubernetes" src="./img/icons/kubernetes.svg" />
-  </a>
+  <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> -->
+  <!--   <img height="50px" alt="Kubernetes" title="Kubernetes" src="./img/icons/kubernetes.svg" /> -->
+  <!-- </a> -->
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Jenkins" title="Jenkins" src="./img/icons/jenkins.svg" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img height="50px" alt="MySQL" title="MySQL" src="./img/icons/mysql.svg" />
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Github" title="Github" src="./img/icons/github.svg" />
-  </a>
-  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Gitlab" title="Gitlab" src="./img/icons/gitlab.svg" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Git" title="Git" src="./img/icons/git.svg" />
@@ -77,17 +68,32 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
   <a href="https://fr.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer">
     <img height="50px" alt="Bash" title="Bash" src="./img/icons/bash.svg" />
   </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img height="50px" alt="MongoDB" title="MongoDB" src="./img/icons/mongodb.svg" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Nginx" title="Nginx" src="./img/icons/nginx.svg" />
-  </a>
+  <!-- <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> -->
+  <!--   <img height="50px" alt="MongoDB" title="MongoDB" src="./img/icons/mongodb.svg" /> -->
+  <!-- </a> -->
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
     <img height="50px" alt="Ansible" title="Ansible" src="./img/icons/ansible.svg" />
   </a>
   <a href="https://fr.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
     <img height="50px" alt="Linux" title="Linux" src="./img/icons/linux.svg" />
+  </a>
+
+  <br>
+
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Github" title="Github" src="./img/icons/github.svg" />
+  </a>
+  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Gitlab" title="Gitlab" src="./img/icons/gitlab.svg" />
+  </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Bitbucket" title="Bitbucket" src="./img/icons/bitbucket.svg" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Jira" title="Jira" src="./img/icons/jira.svg" />
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Confluence" title="Confluence" src="./img/icons/confluence.svg" />
   </a>
 
   <br>
@@ -103,8 +109,11 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
 ### 📚 What I want to learn next
 
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Flutter" title="Flutter" src="./img/icons/flutter.svg">
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img height="50px" alt="Nginx" title="Nginx" src="./img/icons/nginx.svg" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img height="50px" alt="ReactJS" title="ReactJS" src="./img/icons/react.svg" />
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Swift" title="Swift" src="./img/icons/swift.svg">
@@ -114,9 +123,6 @@ For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin
   </a>
   <a href="https://go.dev" target="_blank" rel="noreferrer">
     <img height="50px" alt="Go" title="Go" src="./img/icons/go.svg">
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="NextJS" title="NextJS" src="./img/icons/next.svg">
   </a>
 </p>
 

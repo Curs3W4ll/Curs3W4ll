@@ -4,13 +4,13 @@
 
 ## I'm a French Student and Developer
 
-- 💼 4th year IT student at **EPITECH, Bordeaux, France** (2020-2025)
-- 🎓 Studying to **Laval university** (2023-2024)
+- 💼 5th year IT student at **EPITECH, Bordeaux, France** (2020-2025)
+- 🎓 Studied to **Laval university** (2023-2024)
 - 👨‍🎓 Autonomous & Self-taught
 - ❤️‍🔥 Devops Evangelist
 - 🔌 I'm currently working on an Arduino project, with a mobile app
 - 📚 Developing a medical software for bed management, [Medali](https://medali.fr/).
-- 🎯 2024 Goal: Start contributing on OpenSource projects
+- 🎯 2025 Goal: Start contributing on OpenSource projects
 
 For more information, here is my [LinkedIn](https://www.linkedin.com/in/corentin-hervaud) profile and my [website](https://www.hervaud.fr).
 
